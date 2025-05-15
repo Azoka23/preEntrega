@@ -1,0 +1,8 @@
+module com.techlab {
+    exports com.techlab.clientes;
+    exports com.techlab.productos;
+    exports com.techlab.pedidos;
+    exports com.techlab.excepciones;
+    exports com.techlab.ui;
+    exports com.techlab.util;
+}
